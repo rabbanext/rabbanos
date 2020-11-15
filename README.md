@@ -6,3 +6,8 @@
  - 📫 How to reach me: [Linkedin](https://linkedin.com/in/rrabbani/), [itch.io](https://rabbanos.itch.io/)
 
 ![rabbanos](https://github.githubassets.com/images/mona-whisper.gif)
+
+> Roses are red<br>
+> Violets are blue<br>
+> Unespected '{'<br>
+> On line 32.<br>
