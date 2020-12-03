@@ -1,5 +1,1 @@
-## Hey there! :vulcan_salute:
-
-![rabbanos](https://github.githubassets.com/images/mona-whisper.gif)
-
-> :surfer: currently learning Flutter, Unity3D, Node.js
+![alt text](https://cdn-media-1.freecodecamp.org/images/1*PZeMnEMggf7b1x3HjQTLVA.png)
